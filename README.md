@@ -1,5 +1,3 @@
-# swift-portfolio
-
 # Find my flower
 Flower finding app that I sold it as a final project in an app building course. 
 The app is for people who like to travel outside and see beautiful flowers and fail to recognize what this type of flower is. 
