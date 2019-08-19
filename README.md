@@ -11,6 +11,12 @@ UI design, and makes extensive use of CoreML, CoreData and JSON response parsing
     <img src="Images/Flower-Finder/ML-Find-Rose.gif" width="226" title="ML Rose">
 </p>
 
+# Soccer Stats
+Soccer Stats is a social app that came up with my soccer team friends. The main goal is to connect people who like to play soccer in the neighborhood and who do not find who to play with. The second goal is to save results, rate players, confirm arrivals, payments, etc.
+This is the current project I am working on and is constantly improving.
+
+I'm quite happy with the final product: Soccer Stats was built entirely in Swift, with no external dependencies, and the UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Fire-base as Most importantly, the code is clean, easy to reason about, and maintains strong separation of concerns.
+
 
 # ShowOff
 ShowOff is a take-home project I recently completed as part of the interview process for an iOS Developer role. The
@@ -18,9 +24,6 @@ basic requirements for the app were that it display ten currently showing movies
 from androidhive.org's REST api, Including take snap of QR code and obtaining information from it.
 Choice of design and UI elements were left open to the developer.
 
-I'm quite happy with the final product: ShowOff was built entirely in Swift, with no external dependencies, and the
-UI—which was created using Auto Layout in Interface Builder—is attractive and animates smoothly. Most importantly, the
-code is clean, easy to reason about, and maintains strong separation of concerns.
 
 ## Thanks for stopping by!
 
