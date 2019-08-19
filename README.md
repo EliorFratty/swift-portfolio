@@ -6,6 +6,10 @@ With the app you can take pictures of the flower and find out what it is and als
 I'm extremely pleased with how the project came out. 
 Find my flower was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for
 UI design, and makes extensive use of CoreML, CoreData and JSON response parsing.
+<p align="center">
+    <img src="Images/Flower-Finder/ML-Find-Rose.gif" width="226" title="ML Rose">
+</p>
+
 
 # ShowOff
 ShowOff is a take-home project I recently completed as part of the interview process for an iOS Developer role. The
