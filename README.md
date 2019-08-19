@@ -21,8 +21,8 @@ FireBase, Animation, CNContact, Whats'up Api, CoreLocation and more...
 Soccer Stats was built with Xcode and written in Swift 5 ;
 
 <p align="center">
-    <img src="swift-portfolio/Images/Soccer-stats/LoginScreen.JPG" width="230" title="login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="swift-portfolio/Images/Soccer-stats/TeamSCreen.JPG" width="226" title="my team screen">
+    <img src="Images/Soccer-stats/LoginScreen.JPG" width="230" title="login screen">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="Images/Soccer-stats/TeamSCreen.JPG" width="226" title="my team screen">
 </p>
 
 # ShowOff
