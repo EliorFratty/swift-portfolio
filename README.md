@@ -17,6 +17,7 @@ This is the current project I am working on and is constantly improving.
 
 The project is underway with a thorough study of SWIFT language and wide use of all the possibilities it offers.
 FireBase, Animation, CNContact, Whats'up Api, CoreLocation and more...
+
 Soccer Stats was built with Xcode and written in Swift 5 ;
 
 <p align="center">
