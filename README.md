@@ -7,6 +7,7 @@ I'm extremely pleased with how the project came out.
 Find my flower was built with Xcode and written entirely in Swift 5; it utilizes Auto Layout for
 UI design, and makes extensive use of CoreML, CoreData and JSON response parsing.
 <p align="center">
+    <img src="Images/Flower-Finder/Main-Screen.JPG" width="230" title="Word Guess">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="Images/Flower-Finder/ML-Find-Rose.gif" width="226" title="ML Rose">
 </p>
 
